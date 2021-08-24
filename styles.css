@@ -151,6 +151,32 @@ body::-webkit-scrollbar-thumb {
   opacity: 0.7;
 }
 
+.socials {
+  position: absolute;
+  padding-left: 1714px;
+  padding-top: 11px;
+}
+
+.fa-facebook {
+  opacity: 0.4;
+  padding-right: 15px;
+}
+
+.fa-youtube-play {
+  opacity: 0.4;
+  padding-right: 15px;
+}
+
+.fa-instagram {
+  opacity: 0.4;
+  padding-right: 15px;
+}
+
+.fa-twitter {
+  opacity: 0.4;
+  padding-right: 15px;
+}
+
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
