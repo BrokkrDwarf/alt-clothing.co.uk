@@ -1004,7 +1004,7 @@ img.hover-shadow {
 .buy-buttons {
   position: relative;
   align-items: center;
-  padding-left: 168px;
+  padding-left: 170px;
 }
 
 .btn {
@@ -1061,66 +1061,16 @@ img.hover-shadow {
 /* The container must be positioned relative: */
 .dropdown-wrapper {
   position: relative;
-  margin-left: 181px;
+  margin-left: 202px;
+  margin-bottom: 50px;
 }
 
-.custom-select {
+.sizes {
   position: relative;
-  font-family: "Montserrat", sans-serif;
-}
-
-.custom-select select {
-  display: none;/*hide original SELECT element: */
-}
-
-.select-selected {
-  background-color: rgb(255, 255, 255);
-}
-
-/* Style the arrow inside the select element: */
-.select-selected:after {
-  position: absolute;
-  content: "";
-  top: 14px;
-  right: 10px;
-  width: 0;
-  height: 0;
-  border: 6px solid transparent;
-  border-color: rgb(0, 0, 0) transparent transparent transparent;
-}
-
-/* Point the arrow upwards when the select box is open (active): */
-.select-selected.select-arrow-active:after {
-  border-color: transparent transparent rgb(0, 0, 0) transparent;
-  top: 7px;
-}
-
-/* style the items (options), including the selected item: */
-.select-items div,.select-selected {
-  color: #000000;
-  padding: 8px 16px;
-  border: 1px solid transparent;
-  border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
-  cursor: pointer;
-}
-
-/* Style items (options): */
-.select-items {
-  position: absolute;
-  background-color: rgb(255, 255, 255);
-  top: 100%;
-  left: 0;
-  right: 0;
-  z-index: 33;
-}
-
-/* Hide the items when the select box is closed: */
-.select-hide {
-  display: none;
-}
-
-.select-items div:hover, .same-as-selected {
-  background-color: rgba(0, 0, 0, 0.1);
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 16px;
+  padding-left: 6px;
 }
 
 /*sizing guide tab*/
