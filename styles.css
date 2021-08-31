@@ -603,6 +603,11 @@ in order for the aspect ratio trick to work*/
   max-width: 100%;
 }
 
+.subtitle1 a {
+  color: white;
+  text-decoration: none;
+}
+
 .logo-wrapper img.image-hover {
   position: absolute;
   top: 0;
