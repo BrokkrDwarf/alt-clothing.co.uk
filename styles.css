@@ -414,7 +414,7 @@ in order for the aspect ratio trick to work*/
   position: relative;
   width: 100%;
   /*Width of image is 980px. Height is 570px.*/
-  padding-top: calc(600 / 1900 * 100%);
+  padding-top: calc(2300 / 5184 * 100%);
   overflow: hidden;
 }
 
@@ -1125,7 +1125,7 @@ input[type=submit]:hover {
 .dropdown-wrapper {
   position: relative;
   margin-left: 202px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .sizes {
