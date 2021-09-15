@@ -866,6 +866,64 @@ img.hover-shadow {
   margin-left: 896px;
 }
 
+.contact-form {
+  width: 60%;
+  margin-left: 380px;
+  margin-bottom: 50px;
+  align-self: center;
+}
+
+.two-col {
+  overflow: hidden;/* Makes this div contain its floats */
+}
+
+.two-col .col1,
+.two-col .col2 {
+  width: 49%;
+}
+
+.two-col .col1 {
+  float: left;
+}
+
+.two-col .col2 {
+  float: right;
+}
+
+.two-col label {
+  display: block;
+}
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  padding: 15px 25px;
+  font-size: 20px;
+  cursor: pointer;
+  border-color: rgb(255, 255, 255);
+  border-width: 2px;
+  margin-left: 510px;
+  margin-top: 10px;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #ffffff;
+  color: black;
+}
+
 /* SIZING GUIDE */
 .size-guides-wrapper {
   position: relative;
