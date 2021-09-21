@@ -2101,4 +2101,9 @@ color: rgb(0, 0, 0);
   .prev1 {
     padding-left: 80px;
   }
+  .row1 {
+    width: 89%;
+    padding-right: 29px;
+    padding-left: 0px;
+  }
 }
