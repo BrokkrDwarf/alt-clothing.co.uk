@@ -1713,6 +1713,138 @@ color: rgb(0, 0, 0);
   }
 }
 
+@media (min-width: 767px) { 
+  .collection-items-wrapper {
+    grid-template-columns: 1fr 1fr;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .featured-content {
+    margin-left: 284px;
+    margin-right: 284px;
+  }
+  .nav-wrapper {
+    margin-left: 40px;
+  }
+  .nav-wrapper > .center-side > div {
+    margin-right: 40px;
+  }
+  .index-wrapper {
+    margin-left: 70px;
+  }
+  .shopping {
+    margin-left: 695px;
+  }
+  .search-bar {
+    opacity: 1;
+    margin-left: 500px;
+  }
+  .twitter {
+    margin-left: 50px;
+  }
+  .insta {
+    margin-left: 95px;
+  }
+  .facebook {
+  margin-left: 139px;
+  }
+  .copyright {
+    margin-left: 175px;
+  }
+  .credit-cards{
+    padding-left: 95px;
+  }
+  .socials {
+    padding-left: 616px
+  }
+  .mini-logo {
+    margin-left: 325px;
+  }
+  .row {
+    grid-template-columns: 1fr 1fr;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .contact-us {
+    margin-right: 320px;
+    margin-left: 320px;
+  }
+  .about-section {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .contact-form {
+    width: 90%;
+    margin-left: 35px;
+  }
+  .shipping-section {
+    margin-right: 335px;
+    margin-left: 335px;
+  }
+  
+  .returns-section {
+    margin-right: 337px;
+    margin-left: 337px;
+  }
+  
+  .size-guides-section {
+    margin-right: 323px;
+    margin-left: 323px;
+  }
+  input[type=submit] {
+    margin-left: 277px;
+  }
+  .mySlides1 {
+    padding-left: 80px;
+  }
+  .slide-wrapper {
+    padding-left: 0px;
+    padding-top: 40px;
+  }
+  .product-wrapper {
+    padding-left: 120px;
+  }
+  .prev1 {
+    padding-left: 80px;
+    padding-top: 0px;
+  }
+  .related-items-wrapper {
+    grid-template-columns: 1fr 1fr;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 500px;
+  }
+  .related-products {
+    margin-right: 152px;
+    margin-left: 152px;
+    opacity: 0;
+  }
+  .buy-buttons {
+    padding-left: 170px;
+  }
+  .container2 {
+    display: inherit;
+  }
+  .container1 {
+    display: inherit;
+  }
+  .sizing-guides1 {
+    padding-left: 208px;
+  }
+  .dropdown-wrapper {
+    margin-left: 204px;
+  }
+  .next1 {
+    right: 77px;
+    padding-top: 0px;
+  }
+    .row1 {
+      width: 100%;
+      padding-left: 80px;
+      padding-right: 70px;
+  }
+}
+
 @media (min-width: 992px) {
   .collection-items-wrapper {
     grid-template-columns: 1fr 1fr 1fr;
