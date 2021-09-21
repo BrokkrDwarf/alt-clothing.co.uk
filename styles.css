@@ -1713,15 +1713,15 @@ color: rgb(0, 0, 0);
   }
 }
 
-@media (min-width: 820px) { 
+@media (min-width: 940px) { 
   .collection-items-wrapper {
     grid-template-columns: 1fr 1fr;
     margin-left: 0px;
     margin-right: 0px;
   }
   .featured-content {
-    margin-left: 310px;
-    margin-right: 310px;
+    margin-left: 370px;
+    margin-right: 370px;
   }
   .nav-wrapper {
     margin-left: 40px;
@@ -1733,11 +1733,11 @@ color: rgb(0, 0, 0);
     margin-left: 70px;
   }
   .shopping {
-    margin-left: 743px;
+    margin-left: 870px;
   }
   .search-bar {
     opacity: 1;
-    margin-left: 543px;
+    margin-left: 671px;
   }
   .twitter {
     margin-left: 50px;
@@ -1749,16 +1749,16 @@ color: rgb(0, 0, 0);
   margin-left: 139px;
   }
   .copyright {
-    margin-left: 200px;
+    margin-left: 260px;
   }
   .credit-cards{
-    padding-left: 120px;
+    padding-left: 182px;
   }
   .socials {
-    padding-left: 669px
+    padding-left: 789px
   }
   .mini-logo {
-    margin-left: 350px;
+    margin-left: 410px;
   }
   .row {
     grid-template-columns: 1fr 1fr;
@@ -1766,43 +1766,43 @@ color: rgb(0, 0, 0);
     padding-left: 0px;
   }
   .contact-us {
-    margin-right: 346px;
-    margin-left: 346px;
+    margin-right: 406px;
+    margin-left: 406px;
   }
   .about-section {
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 45px;
+    margin-right: 45px;
   }
   .contact-form {
     width: 90%;
-    margin-left: 35px;
+    margin-left: 45px;
   }
   .shipping-section {
-    margin-right: 360px;
-    margin-left: 360px;
+    margin-right: 420px;
+    margin-left: 420px;
   }
   
   .returns-section {
-    margin-right: 362px;
-    margin-left: 362px;
+    margin-right: 422px;
+    margin-left: 422px;
   }
   
   .size-guides-section {
-    margin-right: 349px;
-    margin-left: 349px;
+    margin-right: 409px;
+    margin-left: 409px;
   }
   input[type=submit] {
-    margin-left: 303px;
+    margin-left: 351px;
   }
   .mySlides1 {
     padding-left: 110px;
   }
   .slide-wrapper {
-    padding-left: 0px;
+    padding-left: 55px;
     padding-top: 40px;
   }
   .product-wrapper {
-    padding-left: 160px;
+    padding-left: 210px;
   }
   .prev1 {
     padding-left: 110px;
@@ -1835,13 +1835,13 @@ color: rgb(0, 0, 0);
     margin-left: 204px;
   }
   .next1 {
-    right: 100px;
+    right: 165px;
     margin-top: 45px;
   }
     .row1 {
       width: 100%;
       padding-left: 110px;
-      padding-right: 93px;
+      padding-right: 159px;
   }
 }
 
