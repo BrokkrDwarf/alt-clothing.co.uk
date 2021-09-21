@@ -1713,15 +1713,15 @@ color: rgb(0, 0, 0);
   }
 }
 
-@media (min-width: 767px) { 
+@media (min-width: 820px) { 
   .collection-items-wrapper {
     grid-template-columns: 1fr 1fr;
     margin-left: 0px;
     margin-right: 0px;
   }
   .featured-content {
-    margin-left: 284px;
-    margin-right: 284px;
+    margin-left: 310px;
+    margin-right: 310px;
   }
   .nav-wrapper {
     margin-left: 40px;
@@ -1733,11 +1733,11 @@ color: rgb(0, 0, 0);
     margin-left: 70px;
   }
   .shopping {
-    margin-left: 695px;
+    margin-left: 743px;
   }
   .search-bar {
     opacity: 1;
-    margin-left: 500px;
+    margin-left: 543px;
   }
   .twitter {
     margin-left: 50px;
@@ -1749,16 +1749,16 @@ color: rgb(0, 0, 0);
   margin-left: 139px;
   }
   .copyright {
-    margin-left: 175px;
+    margin-left: 200px;
   }
   .credit-cards{
-    padding-left: 95px;
+    padding-left: 120px;
   }
   .socials {
-    padding-left: 616px
+    padding-left: 669px
   }
   .mini-logo {
-    margin-left: 325px;
+    margin-left: 350px;
   }
   .row {
     grid-template-columns: 1fr 1fr;
@@ -1766,8 +1766,8 @@ color: rgb(0, 0, 0);
     padding-left: 0px;
   }
   .contact-us {
-    margin-right: 320px;
-    margin-left: 320px;
+    margin-right: 346px;
+    margin-left: 346px;
   }
   .about-section {
     margin-left: 50px;
@@ -1778,35 +1778,35 @@ color: rgb(0, 0, 0);
     margin-left: 35px;
   }
   .shipping-section {
-    margin-right: 335px;
-    margin-left: 335px;
+    margin-right: 360px;
+    margin-left: 360px;
   }
   
   .returns-section {
-    margin-right: 337px;
-    margin-left: 337px;
+    margin-right: 362px;
+    margin-left: 362px;
   }
   
   .size-guides-section {
-    margin-right: 323px;
-    margin-left: 323px;
+    margin-right: 349px;
+    margin-left: 349px;
   }
   input[type=submit] {
-    margin-left: 277px;
+    margin-left: 303px;
   }
   .mySlides1 {
-    padding-left: 80px;
+    padding-left: 110px;
   }
   .slide-wrapper {
     padding-left: 0px;
     padding-top: 40px;
   }
   .product-wrapper {
-    padding-left: 120px;
+    padding-left: 160px;
   }
   .prev1 {
-    padding-left: 80px;
-    padding-top: 0px;
+    padding-left: 110px;
+    margin-top: 45px;
   }
   .related-items-wrapper {
     grid-template-columns: 1fr 1fr;
@@ -1835,13 +1835,13 @@ color: rgb(0, 0, 0);
     margin-left: 204px;
   }
   .next1 {
-    right: 77px;
-    padding-top: 0px;
+    right: 100px;
+    margin-top: 45px;
   }
     .row1 {
       width: 100%;
-      padding-left: 80px;
-      padding-right: 70px;
+      padding-left: 110px;
+      padding-right: 93px;
   }
 }
 
