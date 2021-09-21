@@ -1713,15 +1713,15 @@ color: rgb(0, 0, 0);
   }
 }
 
-@media (min-width: 985px) { 
+@media (min-width: 970px) { 
   .collection-items-wrapper {
     grid-template-columns: 1fr 1fr;
     margin-left: 50px;
     margin-right: 50px;
   }
   .featured-content {
-    margin-left: 393px;
-    margin-right: 393px;
+    margin-left: 385px;
+    margin-right: 385px;
   }
   .nav-wrapper {
     margin-left: 40px;
@@ -1730,14 +1730,14 @@ color: rgb(0, 0, 0);
     margin-right: 40px;
   }
   .index-wrapper {
-    margin-left: 80px;
+    margin-left: 100px;
   }
   .shopping {
-    margin-left: 900px;
+    margin-left: 895px;
   }
   .search-bar {
     opacity: 1;
-    margin-left: 702px;
+    margin-left: 697px;
   }
   .twitter {
     margin-left: 50px;
@@ -1749,16 +1749,16 @@ color: rgb(0, 0, 0);
   margin-left: 139px;
   }
   .copyright {
-    margin-left: 290px;
+    margin-left: 283px;
   }
   .credit-cards{
-    padding-left: 195px;
+    padding-left: 186px;
   }
   .socials {
-    padding-left: 834px
+    padding-left: 819px
   }
   .mini-logo {
-    margin-left: 442px;
+    margin-left: 433px;
   }
   .row {
     grid-template-columns: 1fr 1fr;
@@ -1766,8 +1766,8 @@ color: rgb(0, 0, 0);
     padding-left: 0px;
   }
   .contact-us {
-    margin-right: 429px;
-    margin-left: 429px;
+    margin-right: 421px;
+    margin-left: 421px;
   }
   .about-section {
     margin-left: 45px;
@@ -1775,38 +1775,38 @@ color: rgb(0, 0, 0);
   }
   .contact-form {
     width: 90%;
-    margin-left: 47px;
+    margin-left: 46px;
   }
   .shipping-section {
-    margin-right: 443px;
-    margin-left: 443px;
+    margin-right: 436px;
+    margin-left: 436px;
   }
   
   .returns-section {
-    margin-right: 444px;
-    margin-left: 444px;
+    margin-right: 437px;
+    margin-left: 437px;
   }
   
   .size-guides-section {
-    margin-right: 432px;
-    margin-left: 432px;
+    margin-right: 424px;
+    margin-left: 424px;
   }
   input[type=submit] {
-    margin-left: 372px;
+    margin-left: 365px;
   }
   .mySlides1 {
-    padding-left: 135px;
+    padding-left: 125px;
   }
   .slide-wrapper {
     padding-left: 55px;
     padding-top: 40px;
   }
   .product-wrapper {
-    padding-left: 240px;
+    padding-left: 227px;
   }
   .prev1 {
-    padding-left: 134px;
-    margin-top: 45px;
+    padding-left: 124px;
+    margin-top: 65px;
   }
   .related-items-wrapper {
     grid-template-columns: 1fr 1fr;
@@ -1835,13 +1835,13 @@ color: rgb(0, 0, 0);
     margin-left: 204px;
   }
   .next1 {
-    right: 184px;
-    margin-top: 45px;
+    right: 180px;
+    margin-top: 65px;
   }
     .row1 {
       width: 100%;
-      padding-left: 135px;
-      padding-right: 178px;
+      padding-left: 125px;
+      padding-right: 173px;
   }
 }
 
