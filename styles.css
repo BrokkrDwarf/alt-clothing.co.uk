@@ -1713,15 +1713,15 @@ color: rgb(0, 0, 0);
   }
 }
 
-@media (min-width: 940px) { 
+@media (min-width: 985px) { 
   .collection-items-wrapper {
     grid-template-columns: 1fr 1fr;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
   }
   .featured-content {
-    margin-left: 370px;
-    margin-right: 370px;
+    margin-left: 393px;
+    margin-right: 393px;
   }
   .nav-wrapper {
     margin-left: 40px;
@@ -1730,14 +1730,14 @@ color: rgb(0, 0, 0);
     margin-right: 40px;
   }
   .index-wrapper {
-    margin-left: 70px;
+    margin-left: 80px;
   }
   .shopping {
-    margin-left: 870px;
+    margin-left: 900px;
   }
   .search-bar {
     opacity: 1;
-    margin-left: 671px;
+    margin-left: 702px;
   }
   .twitter {
     margin-left: 50px;
@@ -1749,16 +1749,16 @@ color: rgb(0, 0, 0);
   margin-left: 139px;
   }
   .copyright {
-    margin-left: 260px;
+    margin-left: 290px;
   }
   .credit-cards{
-    padding-left: 182px;
+    padding-left: 195px;
   }
   .socials {
-    padding-left: 789px
+    padding-left: 834px
   }
   .mini-logo {
-    margin-left: 410px;
+    margin-left: 442px;
   }
   .row {
     grid-template-columns: 1fr 1fr;
@@ -1766,8 +1766,8 @@ color: rgb(0, 0, 0);
     padding-left: 0px;
   }
   .contact-us {
-    margin-right: 406px;
-    margin-left: 406px;
+    margin-right: 429px;
+    margin-left: 429px;
   }
   .about-section {
     margin-left: 45px;
@@ -1775,43 +1775,43 @@ color: rgb(0, 0, 0);
   }
   .contact-form {
     width: 90%;
-    margin-left: 45px;
+    margin-left: 47px;
   }
   .shipping-section {
-    margin-right: 420px;
-    margin-left: 420px;
+    margin-right: 443px;
+    margin-left: 443px;
   }
   
   .returns-section {
-    margin-right: 422px;
-    margin-left: 422px;
+    margin-right: 444px;
+    margin-left: 444px;
   }
   
   .size-guides-section {
-    margin-right: 409px;
-    margin-left: 409px;
+    margin-right: 432px;
+    margin-left: 432px;
   }
   input[type=submit] {
-    margin-left: 351px;
+    margin-left: 372px;
   }
   .mySlides1 {
-    padding-left: 110px;
+    padding-left: 135px;
   }
   .slide-wrapper {
     padding-left: 55px;
     padding-top: 40px;
   }
   .product-wrapper {
-    padding-left: 210px;
+    padding-left: 240px;
   }
   .prev1 {
-    padding-left: 110px;
+    padding-left: 134px;
     margin-top: 45px;
   }
   .related-items-wrapper {
     grid-template-columns: 1fr 1fr;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
     padding-top: 500px;
   }
   .related-products {
@@ -1835,13 +1835,13 @@ color: rgb(0, 0, 0);
     margin-left: 204px;
   }
   .next1 {
-    right: 165px;
+    right: 184px;
     margin-top: 45px;
   }
     .row1 {
       width: 100%;
-      padding-left: 110px;
-      padding-right: 159px;
+      padding-left: 135px;
+      padding-right: 178px;
   }
 }
 
