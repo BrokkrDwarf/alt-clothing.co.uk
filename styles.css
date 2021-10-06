@@ -26,7 +26,7 @@ body {
 }
 
 body::-webkit-scrollbar {
-  width: 11px;               /* width of the entire scrollbar */
+  width: 8px;               /* width of the entire scrollbar */
 }
 
 body::-webkit-scrollbar-track {
@@ -35,7 +35,7 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
   background-color: rgb(77, 77, 77);    /* color of the scroll thumb */
-  border-radius: 0px;       /* roundness of the scroll thumb */
+  border-radius: 8px;       /* roundness of the scroll thumb */
 }
 
 /*Brand styles*/
@@ -894,6 +894,12 @@ img.hover-shadow {
   display: block;
 }
 
+.countries-wrapper {
+  display: flex;
+  position: relative;
+  width: 23%;
+  margin-left: 740px;
+}
 
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
@@ -1454,6 +1460,12 @@ color: rgb(0, 0, 0);
     right: -110px;
     padding-top: 0px;
   }
+  .countries-wrapper {
+    display: flex;
+    position: relative;
+    width: 60%;
+    margin-left: 120px;
+  }
 }
 
 @media (min-width: 600px) {
@@ -1584,6 +1596,12 @@ color: rgb(0, 0, 0);
     right: 0px;
     padding-top: 0px;
   }
+  .countries-wrapper {
+    display: flex;
+    position: relative;
+    width: 50%;
+    margin-left: 170px;
+  }
 }
 
 @media (min-width: 690px) {
@@ -1710,6 +1728,12 @@ color: rgb(0, 0, 0);
   .next1 {
     right: 40px;
     padding-top: 10px;
+  }
+  .countries-wrapper {
+    display: flex;
+    position: relative;
+    width: 45%;
+    margin-left: 270px;
   }
 }
 
@@ -1842,6 +1866,12 @@ color: rgb(0, 0, 0);
       width: 100%;
       padding-left: 125px;
       padding-right: 173px;
+  }
+  .countries-wrapper {
+    display: flex;
+    position: relative;
+    width: 45%;
+    margin-left: 270px;
   }
 }
 
@@ -1979,6 +2009,12 @@ color: rgb(0, 0, 0);
     padding-left: 10px;
     padding-top: 10px;
   }
+  .countries-wrapper {
+    display: flex;
+    position: relative;
+    width: 35%;
+    margin-left: 390px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -2105,5 +2141,11 @@ color: rgb(0, 0, 0);
     width: 89%;
     padding-right: 29px;
     padding-left: 0px;
+  }
+  .countries-wrapper {
+    display: flex;
+    position: relative;
+    width: 23%;
+    margin-left: 740px;
   }
 }
