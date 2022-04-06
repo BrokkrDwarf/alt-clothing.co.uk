@@ -17,7 +17,7 @@ function plusSlides(n) {
   showSlides(slideIndex += n);
 }
 /*
-// Thumbnail image controls
+// Thumbnail image controls 
 function currentSlide(n) {
     showSlides(slideIndex = n);
 }
@@ -59,6 +59,9 @@ function changeSlide (n, modal) {
   }
   else {
     currentSlide += n
+  }
+  if (currentSlide+n<1) {
+    currentSlide=6
   }
   if (modal) {
     let slides = document.getElementsByClassName("mySlides2")
