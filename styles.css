@@ -531,13 +531,6 @@ in order for the aspect ratio trick to work*/
   height: 100%;
 }
 
-.countdown-clock {
-  color: rgb(9, 255, 0); 
-  margin-right: 2%; 
-  font-size: 1.6em;
-  text-align: center;
-}
-
 .size-img-wrapper {
   color: white;
 }
